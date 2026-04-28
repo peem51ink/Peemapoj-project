@@ -1,10 +1,3 @@
-# ─────────────────────────────────────────────────────────────────────
-# requirements.txt
-# Project: Wildfire Smoke Detection from Drone Images
-# Dataset: Sri Lanna Grid Annotation Dataset
-# Task:    Binary classification — Smoke vs No Smoke (image-level)
-# ─────────────────────────────────────────────────────────────────────
-
 # ── Core Data Science ────────────────────────────────────────────────
 numpy>=1.24.0
 pandas>=2.0.0
